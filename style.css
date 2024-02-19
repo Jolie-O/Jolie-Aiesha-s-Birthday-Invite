@@ -1,0 +1,33 @@
+h1{
+    font-size:80px;
+}
+
+p{
+    font-family:cursive
+}
+
+.note7
+     {
+        color:blueviolet
+     }
+
+     .button {
+         background-color: rgb(200, 164, 233);
+         color: white;
+         padding: 2px 99px;
+      }
+      img{
+        height:900px;
+        width: 900px;;
+    }
+
+    .img2{
+        height: 500px;
+        width: 600px;
+    }
+* {
+    text-align:center;
+    background-color: rgb(234, 213, 254);
+    font-size:20px;
+    font-family: cursive;
+}

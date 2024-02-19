@@ -1,0 +1,16 @@
+img{
+    height:900px;
+    width: 900px;;
+}
+* {
+    text-align:center;
+    background-color: rgb(234, 213, 254);
+    font-size:30px;
+    font-family: cursive;
+}
+
+.button {
+    background-color: rgb(200, 164, 233);
+    color: rgb(255, 255, 255);
+    padding: 2px 99px;
+ }
